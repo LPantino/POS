@@ -1,0 +1,94 @@
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+C:\Tech\AdminPOS\AdminPOS\bin\Debug\MySql.Data.DLL
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
+C:\Tech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemMaintenance.resources
+E:\POSTech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+E:\POSTech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+E:\POSTech\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemMaintenance.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
+E:\POSTech\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
+E:\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+E:\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+E:\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemMaintenance.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPINReader.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPOS.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmApprover.resources
+E:\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemOption.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmApprover.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemMaintenance.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemOption.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPINReader.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPOS.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmCustomer.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmCstmrSelection.resources
+C:\Users\HILSOFT\Desktop\My Files\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPayout.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe.config
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.exe
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.pdb
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\bin\Debug\AdminPOS.exe
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\bin\Debug\AdminPOS.pdb
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csprojResolveAssemblyReference.cache
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.fmrChangePassword.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Form1.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmApprover.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmCstmrSelection.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmCustomer.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemMaintenance.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmItemOption.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmLogin.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPayout.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPINReader.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmPOS.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSecurityQuestion.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmSettings.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.frmUserManage.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.Properties.Resources.resources
+C:\Users\HILSOFT\Desktop\AdminPOS\AdminPOS\obj\Debug\AdminPOS.csproj.GenerateResource.Cache
